@@ -1,7 +1,6 @@
 # StayEase: Airbnb Clone Project
 
 
-
 ## 📌 Project Overview
 StayEase is a **full-stack web application** inspired by Airbnb.  
 The platform allows users to:
